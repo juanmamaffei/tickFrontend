@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { OpcionesComponent } from './opciones/opciones.component';
 
 @Component({
   selector: 'app-root',
